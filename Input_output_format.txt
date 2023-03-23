@@ -1,0 +1,7 @@
+2
+3
+4
+2
+sd
+output will be as follows:
+[2,6,24,2]
